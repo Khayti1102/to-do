@@ -3,7 +3,7 @@
 
 Manage your tasks efficiently with this simple yet powerful to-do list app. Stay organized and productive with ease.
 
-To check out the live preview 🔗[Click here.]()
+To check out the live preview 🔗[Click here.](https://khayti1102.github.io/to-do/)
 ## Features
 
 - **Add Task**: Easily add new tasks to your list.
